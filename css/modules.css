@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logo img{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+  .navbar a{
+    padding-left: 150px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.navbar a:hover{
+  text-decoration: underline;
+  color: whitesmoke;
+}
+
+.container-2 a{
+    width: 33.33%;
+  }
+  
+  .container-2 img{
+      height: 100%;
+      width: 95%;
+      margin-bottom: 20px;
+  }
+
+  .container-5{
+    width:60%;
+  }
+  .container-5 img{
+      margin-top: 03vh;
+      width:95%;
+  }
+  
